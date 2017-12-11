@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:awss="http://xml.amadeus.com/ws/2009/01/WBS_Session-2.0.xsd"><soapenv:Header><awss:Session><awss:SessionId>03U8RWOPKY</awss:SessionId><awss:SequenceNumber>6</awss:SequenceNumber><awss:SecurityToken>1LHPIYSNE0493VVZIEU98KPNO</awss:SecurityToken></awss:Session></soapenv:Header><soapenv:Body><Command_CrypticReply xmlns="http://xml.amadeus.com/HSFRES_07_3_1A"><longTextString><textStringDetails>FQC1KWD/GBP/30NOV17
+BSR CONVERSION OF KWD TO GBP
+GBP 2.00 - ROUNDED AS FARES
+GBP 2.50 - ROUNDED AS OTHER CHARGES
+GBP 2.49 - AMOUNT TRUNCATED
+BSR USED 1 KWD = 2.493737 GBP EFF 25NOV17
+
+ROUNDING OF FARES TO NEAREST 1.00 GBP
+ROUNDING OF OTHER CHARGES TO NEAREST 0.10 GBP
+
+KWD - KUWAITI DINAR
+GBP - POUND STERLING
+                                                  PAGE  1/ 1
+ </textStringDetails></longTextString></Command_CrypticReply></soapenv:Body></soapenv:Envelope>

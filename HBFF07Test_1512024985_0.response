@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GetDiscountAmountResponse xmlns="http://www.ba.com/schema/tGetDiscountAmountV1">
+    <CAPError xmlns="">
+        <Reason>Discount globally excluded</Reason>
+        <DateTimeStamp>2017-11-30T06:54:20.316+00:00</DateTimeStamp>
+        <Code>PRM31150</Code>
+        <Severity>1</Severity>
+        <RequestID>310874370_2</RequestID>
+        <DetailErrorType>CAP error</DetailErrorType>
+    </CAPError>
+</GetDiscountAmountResponse>

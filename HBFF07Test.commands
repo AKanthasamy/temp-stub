@@ -1,0 +1,13 @@
+put/module?name=amadeus.py
+delete/stubs?scenario=HBFF07Test
+begin/session?scenario=HBFF07Test&session=HBFF07Test_1512024985&mode=record
+put/stub?system_date=2017-11-30&stubbedSystemDate=2017-11-30&stubbedSystem=amadeus&session=HBFF07Test_1512024985&stub_created_date=2017-11-30&ext_module=discounts,HBFF07Test_1512024985_0_0.textMatcher,HBFF07Test_1512024985_0_1.textMatcher,HBFF07Test_1512024985_0_2.textMatcher,HBFF07Test_1512024985_0.response
+put/stub?system_date=2017-11-30&stubbedSystemDate=2017-11-30&stubbedSystem=amadeus&session=HBFF07Test_1512024985&stub_created_date=2017-11-30&ext_module=amadeus,HBFF07Test_1512024985_1_0.textMatcher,HBFF07Test_1512024985_1_1.textMatcher,HBFF07Test_1512024985_1.response
+put/stub?system_date=2017-11-30&stubbedSystemDate=2017-11-30&stubbedSystem=amadeus&session=HBFF07Test_1512024985&stub_created_date=2017-11-30&ext_module=amadeus,HBFF07Test_1512024985_1_0.textMatcher,HBFF07Test_1512024985_1_1.textMatcher,HBFF07Test_1512024985_2.response
+put/stub?system_date=2017-11-30&stubbedSystemDate=2017-11-30&stubbedSystem=amadeus&session=HBFF07Test_1512024985&stub_created_date=2017-11-30&ext_module=amadeus,HBFF07Test_1512024985_2_0.textMatcher,HBFF07Test_1512024985_2_1.textMatcher,HBFF07Test_1512024985_3.response
+put/stub?system_date=2017-11-30&stubbedSystemDate=2017-11-30&stubbedSystem=amadeus&session=HBFF07Test_1512024985&stub_created_date=2017-11-30&ext_module=amadeus,HBFF07Test_1512024985_3_0.textMatcher,HBFF07Test_1512024985_3_1.textMatcher,HBFF07Test_1512024985_4.response
+put/stub?system_date=2017-11-30&stubbedSystemDate=2017-11-30&stubbedSystem=discounts&session=HBFF07Test_1512024985&stub_created_date=2017-11-30&ext_module=amadeus,HBFF07Test_1512024985_4_0.textMatcher,HBFF07Test_1512024985_4_1.textMatcher,HBFF07Test_1512024985_5.response
+put/stub?system_date=2017-11-30&stubbedSystemDate=2017-11-30&stubbedSystem=amadeus&session=HBFF07Test_1512024985&stub_created_date=2017-11-30&ext_module=amadeus,HBFF07Test_1512024985_5_0.textMatcher,HBFF07Test_1512024985_5_1.textMatcher,HBFF07Test_1512024985_6.response
+put/stub?system_date=2017-11-30&stubbedSystemDate=2017-11-30&stubbedSystem=amadeus&session=HBFF07Test_1512024985&stub_created_date=2017-11-30&ext_module=amadeus,HBFF07Test_1512024985_6_0.textMatcher,HBFF07Test_1512024985_6_1.textMatcher,HBFF07Test_1512024985_7.response
+put/stub?system_date=2017-11-30&stubbedSystemDate=2017-11-30&stubbedSystem=amadeus&session=HBFF07Test_1512024985&stub_created_date=2017-11-30&ext_module=amadeus,HBFF07Test_1512024985_6_0.textMatcher,HBFF07Test_1512024985_6_1.textMatcher,HBFF07Test_1512024985_8.response
+end/session?session=HBFF07Test_1512024985
