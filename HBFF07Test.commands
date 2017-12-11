@@ -1,4 +1,4 @@
-put/module?name=amadeus.py
+put/module?name=/static/cmds/tests/ext/amadeus.py
 delete/stubs?scenario=HBFF07Test
 begin/session?scenario=HBFF07Test&session=HBFF07Test_1512024985&mode=record
 put/stub?system_date=2017-11-30&stubbedSystemDate=2017-11-30&stubbedSystem=amadeus&session=HBFF07Test_1512024985&stub_created_date=2017-11-30&ext_module=discounts,HBFF07Test_1512024985_0_0.textMatcher,HBFF07Test_1512024985_0_1.textMatcher,HBFF07Test_1512024985_0_2.textMatcher,HBFF07Test_1512024985_0.response
